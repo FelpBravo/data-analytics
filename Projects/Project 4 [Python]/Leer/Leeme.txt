@@ -1,0 +1,2 @@
+Para los ejercicios 7 y 8 es necesario importar los archivos .csv dentro del directorio 'content', de esta manera podra ejecutar los dos ultimos ejercicios del cuaderno.
+Gracias, saludos!! 
